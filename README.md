@@ -4,15 +4,15 @@
 
 ## PUMA: Empowering Unified MLLM with Multi-Granular Visual Generation
 
-<p align="center">
+<div align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=rongyaofang/PUMA" alt="visitors">
-</p>
 
 [Rongyao Fang](https://scholar.google.com/citations?user=FtH3CW4AAAAJ&hl=en)<sup>1\*</sup>, [Chengqi Duan](https://scholar.google.com/citations?user=r9qb4ZwAAAAJ&hl=zh-CN)<sup>2\*</sup>, [Kun Wang]()<sup>3</sup>, [Hao Li](https://scholar.google.com/citations?user=qHqQsY4AAAAJ&hl=zh-CN)<sup>1,4</sup>, [Hao Tian]()<sup>3</sup>, [Xingyu Zeng]()<sup>3</sup>, [Rui Zhao]()<sup>3</sup>, [Jifeng Dai](https://jifengdai.org/)<sup>4,5</sup>, [Hongsheng Li](https://www.ee.cuhk.edu.hk/~hsli/)<sup>1 :envelope:</sup>, [Xihui Liu](https://xh-liu.github.io/)<sup>2 :envelope:</sup>
 
 <sup>1</sup>CUHK MMLab, <sup>2</sup>HKU MMLab, <sup>3</sup>SenseTime, <sup>4</sup>Shanghai AI Laboratory, <sup>5</sup>Tsinghua University
 
 *Equal contribution, :envelope:Corresponding authors
+</div>
 
 :fire: **We will release the code and models soon!**
 
@@ -82,7 +82,7 @@ If you find PUMA useful in your research, please consider citing us:
 @article{fang2024puma,
   title     ={PUMA: Empowering Unified MLLM with Multi-Granular Visual Generation},
   author    ={Rongyao Fang, Chengqi Duan, Kun Wang, Hao Li, Hao Tian, Xingyu Zeng, Rui Zhao, Jifeng Dai, Hongsheng Li, Xihui Liu},
-  journal   = {arxiv},
+  journal   ={arxiv},
   year      ={2024}
 }
 ```
