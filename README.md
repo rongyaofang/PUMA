@@ -73,6 +73,7 @@ Read the full paper [here](https://arxiv.org/abs/your_paper_id).
 <p align="center">
     <img src="assets/pic/cond_gen.jpg" width="920">
 </p>
+
 ## <a name="citation"></a>Citation
 
 If you find PUMA useful in your research, please consider citing us:
