@@ -26,7 +26,7 @@
 - [Image Editing](#image-editing)
 - [Image Conditional Generation](#cond_gen)
 
-##  <a name="update"></a>:new:Update
+## <a name="update"></a>:new:Update
 - **2024.10.18**: PUMA preprint is released on ArXiv 🎉.
 
 ## <a name="todo"></a>:hourglass: TODO
@@ -44,14 +44,14 @@ Read the full paper [here](https://arxiv.org/abs/your_paper_id).
 ## <a name="framework"></a>Framework
 
 <p align="center">
-    <img src="assets/pic/main_figure.pdf" width="920">
+    <img src="assets/pic/main_figure.jpg" width="920">
 </p>
 - PUMA leverages multi-granular visual representations as unified inputs and outputs for MLLM, allowing it to handle a variety of visual tasks, including text-to-image generation, image editing, inpainting, colorization, conditional generation, and image understanding.
 
 ## <a name="decoding"></a>Multi-granular Semantic Visual Decoding
 
 <p align="center">
-    <img src="assets/pic/rec.pdf" width="920">
+    <img src="assets/pic/rec.jpg" width="920">
 </p>
 
 - PUMA's visual decoding process spans five granular image representations (f<sub>0</sub> to f<sub>4</sub>) and corresponding decoders (D<sub>0</sub> to D<sub>4</sub>), which are trained using SDXL. This allows PUMA to achieve precise image reconstruction and semantic-guided generation, supporting both control and diversity in image generation tasks.
@@ -59,20 +59,21 @@ Read the full paper [here](https://arxiv.org/abs/your_paper_id).
 ## <a name="t2i"></a>Diverse Text-to-image Generation
 
 <p align="center">
-    <img src="assets/pic/gen.pdf" width="920">
+    <img src="assets/pic/gen.jpg" width="920">
 </p>
 
 ## <a name="image_editing"></a>Image Editing
 
 <p align="center">
-    <img src="assets/pic/edit.pdf" width="920">
+    <img src="assets/pic/edit.jpg" width="920">
 </p>
 
 ## <a name="cond_gen"></a>Image Conditional Generation
 
 <p align="center">
-    <img src="assets/pic/cond_gen.pdf" width="920">
+    <img src="assets/pic/cond_gen.jpg" width="920">
 </p>
+
 
 ## <a name="citation"></a>Citation
 
