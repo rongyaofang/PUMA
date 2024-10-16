@@ -73,8 +73,6 @@ Read the full paper [here](https://arxiv.org/abs/your_paper_id).
 <p align="center">
     <img src="assets/pic/cond_gen.jpg" width="920">
 </p>
-
-
 ## <a name="citation"></a>Citation
 
 If you find PUMA useful in your research, please consider citing us:
@@ -82,7 +80,7 @@ If you find PUMA useful in your research, please consider citing us:
 ```
 @article{fang2024puma,
   title     ={PUMA: Empowering Unified MLLM with Multi-Granular Visual Generation},
-  author    ={Fang, Rongyao and Duan, Chengqi and Wang, Kun and Li, Hao and Tian, Hao and Zeng, Xingyu and Zhao, Rui and Dai, Jifeng and Li, Hongsheng and Liu, Xihui},
+  author    ={Rongyao Fang, Chengqi Duan, Kun Wang, Hao Li, Hao Tian, Xingyu Zeng, Rui Zhao, Jifeng Dai, Hongsheng Li, Xihui Liu},
   journal   = {arxiv},
   year      ={2024}
 }
