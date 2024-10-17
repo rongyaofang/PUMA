@@ -98,3 +98,4 @@ This project is released under the [Apache 2.0 license](LICENSE).
 ## <a name="contact"></a>Contact
 
 If you have any questions, please feel free to contact rongyaofang@gmail.com.
+Rongyao Fang anticipates graduating in 2025 and is open to both academic and industrial research positions. If you are interested, please feel free to contact.
