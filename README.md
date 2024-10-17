@@ -30,8 +30,8 @@
 - [Image Conditional Generation](#cond_gen)
 
 ## <a name="update"></a>:new:Update
-- **2024.10.18**: PUMA preprint is released on ArXiv 🎉.
-- **2024.10.17**: PUMA homepage is now available🎉.
+- **2024.10.18**: PUMA preprint is released on ArXiv :fire:.
+- **2024.10.17**: PUMA homepage is now available :fire:.
 
 ## <a name="todo"></a>:hourglass: TODO
 
