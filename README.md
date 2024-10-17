@@ -31,10 +31,11 @@
 
 ## <a name="update"></a>:new:Update
 - **2024.10.18**: PUMA preprint is released on ArXiv 🎉.
+- **2024.10.17**: PUMA homepage is now available🎉.
 
 ## <a name="todo"></a>:hourglass: TODO
 
-- [ ] Update links to project page :link:
+- [x] Update links to project page :link:
 - [ ] Release visual encoder and decoders checkpoints :computer:
 - [ ] Release MLLM backbone checkpoint :floppy_disk:
 
