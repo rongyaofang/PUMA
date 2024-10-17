@@ -5,6 +5,9 @@
 ## PUMA: Empowering Unified MLLM with Multi-Granular Visual Generation
 
 <div align="center">
+<a href="https://rongyaofang.github.io/puma/" target="_blank">
+    <img src="https://img.shields.io/badge/Project-Homepage-green" alt="Home">
+</a>
 <img src="https://visitor-badge.laobi.icu/badge?page_id=rongyaofang/PUMA" alt="visitors">
 
 [Rongyao Fang](https://scholar.google.com/citations?user=FtH3CW4AAAAJ&hl=en)<sup>1\*</sup>, [Chengqi Duan](https://scholar.google.com/citations?user=r9qb4ZwAAAAJ&hl=zh-CN)<sup>2\*</sup>, [Kun Wang]()<sup>3</sup>, [Hao Li](https://scholar.google.com/citations?user=qHqQsY4AAAAJ&hl=zh-CN)<sup>1,4</sup>, [Hao Tian]()<sup>3</sup>, [Xingyu Zeng]()<sup>3</sup>, [Rui Zhao]()<sup>3</sup>, [Jifeng Dai](https://jifengdai.org/)<sup>4,5</sup>, [Hongsheng Li](https://www.ee.cuhk.edu.hk/~hsli/)<sup>1 :envelope:</sup>, [Xihui Liu](https://xh-liu.github.io/)<sup>2 :envelope:</sup>
