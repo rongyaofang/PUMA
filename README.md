@@ -50,6 +50,7 @@ Read the full paper [here](https://arxiv.org/abs/your_paper_id).
 <p align="center">
     <img src="assets/pic/main_figure.jpg" width="920">
 </p>
+
 - PUMA leverages multi-granular visual representations as unified inputs and outputs for MLLM, allowing it to handle a variety of visual tasks, including text-to-image generation, image editing, inpainting, colorization, conditional generation, and image understanding.
 
 ## <a name="decoding"></a>Multi-granular Semantic Visual Decoding
