@@ -42,7 +42,7 @@
 
 > **PUMA** introduces a unified multimodal large language model framework designed to integrate multi-granular visual generation and understanding. Our model excels in a variety of visual tasks, including diverse text-to-image generation, precise image editing, conditional image generation, and visual understanding. It strikes a balance between generation diversity and controllability, making it a versatile tool for visual tasks.
 
-Read the full paper [here](https://arxiv.org/abs/your_paper_id).
+Read the full paper [here](https://arxiv.org/abs/2410.13861).
 
 ## <a name="framework"></a>Framework
 
