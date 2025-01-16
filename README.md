@@ -21,6 +21,9 @@
 ## :book: Table of Contents
 - [Update](#update) 
 - [TODO](#todo)
+- [Environment Setup](#env)
+- [Checkpoint Download](#checkpoint)
+- [Multi-granular Visual Decoding](#multi-granular)
 - [Abstract](#abstract)
 - [Framework](#framework)
 - [Multi-granular Semantic Visual Decoding](#decoding)
@@ -39,21 +42,21 @@
 - [x] Release visual encoder and decoders checkpoints :computer:
 - [ ] Release MLLM backbone checkpoint :floppy_disk:
 
-## Environment Setup
+## <a name="env"></a>Environment Setup
 ```
 conda create -n puma python==3.8
 conda activate puma
 pip install -r requirements.txt
 ```
 
-## Checkpoint Download
+## <a name="checkpoint"></a>Checkpoint Download
 ```
 # You should first replace the <token> with your huggingface token
 python download_ckpt.py
 ```
 For manual downloads, please download checkpoints from [here](https://huggingface.co/LucasFang/PUMA) and put the checkpoints under **./ckpts**.
 
-## Multi-granular Visual Decoding
+## <a name="multi-granular"></a>Multi-granular Visual Decoding
 ```
 python infer_detokenizer.py --num_tokens <chosen number from [1, 4, 16, 64, 256]>
 ```
