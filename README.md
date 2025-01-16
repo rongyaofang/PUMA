@@ -29,7 +29,7 @@
 - [Image Conditional Generation](#cond_gen)
 
 ## <a name="update"></a>:new:Update
-- **2025.01.16**: PUMA releases checkpoint and inference code for decoders.
+- **2025.01.16**: PUMA releases checkpoint and inference code for decoders :fire:.
 - **2024.10.18**: PUMA preprint is released on ArXiv :fire:.
 - **2024.10.17**: PUMA homepage is now available :fire:.
 
@@ -39,11 +39,30 @@
 - [x] Release visual encoder and decoders checkpoints :computer:
 - [ ] Release MLLM backbone checkpoint :floppy_disk:
 
+## Environment Setup
+```
+conda create -n puma python==3.8
+conda activate puma
+pip install -r requirements.txt
+```
+
+## Checkpoint Download
+```
+# You should first replace the <token> with your huggingface token
+python download_ckpt.py
+```
+For manual downloads, please download checkpoints from [here](https://huggingface.co/LucasFang/PUMA) and put the checkpoints under **./ckpts**.
+
+## Multi-granular Visual Decoding
+```
+python infer_detokenizer.py --num_tokens <chosen number from [1, 4, 16, 64, 256]>
+```
+
 ## <a name="abstract"></a>Abstract
 
 > **PUMA** introduces a unified multimodal large language model framework designed to integrate multi-granular visual generation and understanding. Our model excels in a variety of visual tasks, including diverse text-to-image generation, precise image editing, conditional image generation, and visual understanding. It strikes a balance between generation diversity and controllability, making it a versatile tool for visual tasks.
 
-Read the full paper [here](https://arxiv.org/abs/your_paper_id).
+Read the full paper [here](https://arxiv.org/abs/2410.13861).
 
 ## <a name="framework"></a>Framework
 
