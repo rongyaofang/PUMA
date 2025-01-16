@@ -29,6 +29,7 @@
 - [Image Conditional Generation](#cond_gen)
 
 ## <a name="update"></a>:new:Update
+- **2025.01.16**: PUMA releases checkpoint and inference code for detokenizer.
 - **2024.10.18**: PUMA preprint is released on ArXiv :fire:.
 - **2024.10.17**: PUMA homepage is now available :fire:.
 
