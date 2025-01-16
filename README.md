@@ -29,14 +29,14 @@
 - [Image Conditional Generation](#cond_gen)
 
 ## <a name="update"></a>:new:Update
-- **2025.01.16**: PUMA releases checkpoint and inference code for detokenizer.
+- **2025.01.16**: PUMA releases checkpoint and inference code for decoders.
 - **2024.10.18**: PUMA preprint is released on ArXiv :fire:.
 - **2024.10.17**: PUMA homepage is now available :fire:.
 
 ## <a name="todo"></a>:hourglass: TODO
 
 - [x] Update links to project page :link:
-- [ ] Release visual encoder and decoders checkpoints :computer:
+- [x] Release visual encoder and decoders checkpoints :computer:
 - [ ] Release MLLM backbone checkpoint :floppy_disk:
 
 ## <a name="abstract"></a>Abstract
